@@ -1,2 +1,2 @@
-FROM alpine:3.13.1 as base
+FROM alpine:3.15.0 as base
 
